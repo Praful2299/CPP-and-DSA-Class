@@ -13,8 +13,8 @@ cin>>rec;
 
 for(int i=0;i<rec;i++)
 {
-    cout<<"Enter roll no \n";
-    cin>>roll;
+    cout << "Enter roll no \n";
+    cin>> roll;
     cout<<"Enter name \n";
     cin>>name;
 
